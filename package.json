@@ -1,7 +1,7 @@
 {
   "name": "helloworld",
   "version": "1.0.0",
-  "description": "test",
+  "description": "test again",
   "main": "helloworld.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha"
