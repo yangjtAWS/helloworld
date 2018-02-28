@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/yangjtAWS/helloworld#readme",
   "devDependencies": {
-    "mocha": "^2.5.3",
+    "mocha": "^3.1.2",
     "zombie": "^5.0.8",
-    "jsdom": "3.1.2"
+    "jsdom": "^9.2.1"
   }
 }
