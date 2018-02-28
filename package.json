@@ -20,6 +20,6 @@
   "devDependencies": {
     "mocha": "^3.1.2",
     "zombie": "^5.0.8",
-    "jsdom": "^9.2.1"
+    "jsdom": "^3.1.2"
   }
 }
