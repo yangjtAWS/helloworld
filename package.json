@@ -19,6 +19,6 @@
   "homepage": "https://github.com/yangjtAWS/helloworld#readme",
   "devDependencies": {
 		"mocha": "^2.5.3",
-    	"zombie": "^5.0.8"
+    	"zombie": "^4.0.0"
   }
 }
