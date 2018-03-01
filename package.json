@@ -17,10 +17,8 @@
     "url": "https://github.com/yangjtAWS/helloworld/issues"
   },
   "homepage": "https://github.com/yangjtAWS/helloworld#readme",
-  "engines": {
-    "node": ">= 1.0"
-  },
   "devDependencies": {
-
+		"mocha": "^2.5.3",
+    	"zombie": "^3.0.15"
   }
 }
